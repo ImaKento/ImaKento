@@ -8,12 +8,9 @@
 
 <br>
 
-<br>
-<br>
-
 <h3 align="center">🛠 Technology Stack</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&perline=12&i=go,python,ts,react,next,docker,git,linux,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?theme=dark&perline=12&i=ts,go,python,react,next,docker,git,linux,mysql,postgres" />
 </div>
 
 <br>
