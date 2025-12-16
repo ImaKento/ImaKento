@@ -2,7 +2,7 @@
   <h1>Hi there, I'm Kento 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Master's+Student+%40+Kansai+Univ.;Backend+Engineer+(Go+%2F+Python);Learning+Clean+Architecture+%26+DDD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=50&lines=Master's+Student+%40+Kansai+Univ.;Backend+Engineer+(TyepScript+%2F+Go);" alt="Typing SVG" />
   </a>
 
   <p>
